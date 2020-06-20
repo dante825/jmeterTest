@@ -1,0 +1,188 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592657909837,151,/-1,200,OK,users 1-1,text,true,,4220,674,1,1,https://dibots.com/,23,0,16
+1592657909837,23,/-1-0,302,Found,users 1-1,text,true,,460,337,1,1,http://dibots.com/,23,0,16
+1592657909860,128,/-1-1,200,OK,users 1-1,text,true,,3760,337,1,1,https://dibots.com/,128,0,124
+1592657909990,62,/css-5,200,OK,users 1-1,text,true,,2072,379,1,1,https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%7CRoboto+Slab%3A400%2C700%7CMaterial+Icons,61,0,45
+1592657910053,2,/undefined-16,200,OK,users 1-1,text,true,,3759,290,1,1,https://dibots.com/undefined,2,0,0
+1592657910055,5,/ping-20,200,,users 1-1,text,true,,494,420,1,1,https://dibots.com/ping,5,0,0
+1592657910061,41,/search-21,200,,users 1-1,text,true,,555,550,1,1,https://dibots.com/search,41,0,0
+1592657910103,45,/s/robotoslab/v11/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rj.woff2-22,200,OK,users 1-1,text,true,,19437,436,1,1,https://fonts.gstatic.com/s/robotoslab/v11/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rj.woff2,40,0,34
+1592657910148,2,/loginPage-23,200,OK,users 1-1,text,true,,3759,384,1,1,https://dibots.com/loginPage,2,0,0
+1592657910151,3,/ping-25,200,,users 1-1,text,true,,494,425,1,1,https://dibots.com/ping,2,0,0
+1592657910154,15,/s/materialicons/v52/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2-26,200,OK,users 1-1,text,true,,80121,423,1,1,https://fonts.gstatic.com/s/materialicons/v52/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2,8,0,0
+1592657909793,326,,200,"Number of samples in transaction : 9, number of failing samples : 0",users 1-1,,true,,114911,3981,1,1,null,184,52,95
+1592657910170,757,/v4/threatListUpdates:fetch-27,200,OK,users 1-1,text,true,,222359,758,1,1,https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?%24ct=application%2Fx-protobuf&key=AIzaSyAeBuGRUrxHr4_eHhrCwdkl0G-O4qR5UXs&%24httpMethod=POST&%24req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAIaGwoNCAUQBhgBIgMwMDEwARDp4QgaAhgKBJHajCICIAIoARonCAEQAhobCg0IARAGGAEiAzAwMTABEP7BBxoCGAp8jhByIgIgAigBGicIAxACGhsKDQgDEAYYASIDMDAxMAEQ5ckHGgIYCqEzBfwiAiACKAEaJwgHEAIaGwoNCAcQBhgBIgMwMDEwARDQzAcaAhgKe3_ETiICIAIoARolCAkQAhoZCg0ICRAGGAEiAzAwMTABEBwaAhgKLxCLEiICIAIoAQ%3D%3D,705,0,42
+1592657910928,229,/login-28,200,,users 1-1,,true,,457,673,1,1,https://dibots.com/login,229,0,0
+1592657911162,7,/ping-29,200,,users 1-1,text,true,,493,486,1,1,https://dibots.com/ping,7,0,0
+1592657911169,51,/search-30,200,,users 1-1,text,true,,555,616,1,1,https://dibots.com/search,51,0,0
+1592657911221,10,/_roles-31,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,10,0,0
+1592657911232,9,/username-32,200,,users 1-1,text,true,,509,490,1,1,https://dibots.com/username,8,0,0
+1592657911242,3,/webcrawlerpage-33,200,OK,users 1-1,text,true,,3759,455,1,1,https://dibots.com/webcrawlerpage,3,0,0
+1592657911246,7,/ping-35,200,,users 1-1,text,true,,493,496,1,1,https://dibots.com/ping,7,0,0
+1592657911254,8,/ping-36,200,,users 1-1,text,true,,493,496,1,1,https://dibots.com/ping,8,0,0
+1592657911263,8,/_roles-37,200,,users 1-1,text,true,,593,498,1,1,https://dibots.com/_roles,8,0,0
+1592657911272,8,/username-38,200,,users 1-1,text,true,,509,500,1,1,https://dibots.com/username,7,0,0
+1592657911281,9,/role_check?role=G_NEWS-39,200,,users 1-1,text,true,,493,514,1,1,https://dibots.com/role_check?role=G_NEWS,8,0,0
+1592657911291,12,/classif-codes-45,200,,users 1-1,text,true,,827,393,1,1,https://dibots.com/classif-codes,11,0,0
+1592657911304,35,/auth/adv_search-40,200,,users 1-1,text,true,,16386,953,1,1,https://dibots.com/auth/adv_search,27,0,0
+1592657911340,24,/auth/adv_search-44,200,,users 1-1,text,true,,4148,895,1,1,https://dibots.com/auth/adv_search,23,0,0
+1592657911365,32,/auth/adv_search-43,200,,users 1-1,text,true,,16387,953,1,1,https://dibots.com/auth/adv_search,26,0,0
+1592657911398,97,/auth/adv_search-42,200,,users 1-1,text,true,,9884,1161,1,1,https://dibots.com/auth/adv_search,94,0,0
+1592657911496,153,/webcrawler/get/latestNewsDate-41,200,,users 1-1,text,true,,494,409,1,1,https://dibots.com/webcrawler/get/latestNewsDate,153,0,0
+1592657911650,17,/webcrawler/get/config/sourceName-48,200,,users 1-1,text,true,,941,412,1,1,https://dibots.com/webcrawler/get/config/sourceName,17,0,0
+1592657911669,1113,/releases/v5.0.10/webfonts/fa-solid-900.woff2-46,200,OK,users 1-1,text,true,,44563,414,1,1,https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2,958,0,640
+1592657910170,2589,,200,"Number of samples in transaction : 20, number of failing samples : 0",users 1-1,,true,,324936,12060,1,1,null,2360,23,682
+1592657912783,67,/auth/adv_search-49,200,,users 1-1,text,true,,15999,1229,1,1,https://dibots.com/auth/adv_search,63,0,0
+1592657912782,67,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,15999,1229,1,1,null,63,1,0
+1592657912850,65,/auth/adv_search-52,200,,users 1-1,text,true,,17317,1300,1,1,https://dibots.com/auth/adv_search,61,0,0
+1592657912850,65,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,17317,1300,1,1,null,61,1,0
+1592657912916,42,/auth/adv_search-53,200,,users 1-1,text,true,,18675,1353,1,1,https://dibots.com/auth/adv_search,39,0,0
+1592657912916,42,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,18675,1353,1,1,null,39,0,0
+1592657912958,2,/home-54,200,OK,users 1-1,text,true,,3759,455,1,1,https://dibots.com/home,2,0,0
+1592657912961,9,/ping-56,200,,users 1-1,text,true,,493,486,1,1,https://dibots.com/ping,9,0,0
+1592657912970,48,/search-57,200,,users 1-1,text,true,,555,616,1,1,https://dibots.com/search,48,0,0
+1592657913019,8,/_roles-58,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,8,0,0
+1592657913028,6,/username-59,200,,users 1-1,text,true,,509,490,1,1,https://dibots.com/username,6,0,0
+1592657913035,7,/_roles-60,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,6,0,0
+1592657913043,3,/connectivity/_-61,200,OK,users 1-1,text,true,,3759,455,1,1,https://dibots.com/connectivity/_,3,0,0
+1592657913047,7,/ping-63,200,,users 1-1,text,true,,493,496,1,1,https://dibots.com/ping,7,0,0
+1592657913055,3,/connectivity/undefined-65,200,OK,users 1-1,text,true,,3759,383,1,1,https://dibots.com/connectivity/undefined,2,0,0
+1592657913059,6,/ping-64,200,,users 1-1,text,true,,493,496,1,1,https://dibots.com/ping,6,0,0
+1592657913066,7,/_roles-66,200,,users 1-1,text,true,,593,498,1,1,https://dibots.com/_roles,7,0,0
+1592657913074,7,/username-67,200,,users 1-1,text,true,,509,500,1,1,https://dibots.com/username,7,0,0
+1592657913082,11,/role_check?role=CONN-68,200,,users 1-1,text,true,,493,512,1,1,https://dibots.com/role_check?role=CONN,10,0,0
+1592657913094,12,/countries-69,200,,users 1-1,text,true,,3118,389,1,1,https://dibots.com/countries,12,0,0
+1592657912958,136,,200,"Number of samples in transaction : 14, number of failing samples : 0",users 1-1,,true,,19719,6752,1,1,null,133,13,0
+1592657913107,47,/search-70,200,,users 1-1,text,true,,1597,668,1,1,https://dibots.com/search,47,0,0
+1592657913155,26,/profile/2651888-73,200,,users 1-1,text,true,,2200,404,1,1,https://dibots.com/profile/2651888,25,0,0
+1592657913182,9,/countries-75,200,,users 1-1,text,true,,3118,398,1,1,https://dibots.com/countries,8,0,0
+1592657913192,61,/neo4j/company/e82086e0-acac-4b58-a090-2fb612bce93a-76,200,,users 1-1,text,true,,7289,439,1,1,https://dibots.com/neo4j/company/e82086e0-acac-4b58-a090-2fb612bce93a,61,0,0
+1592657913107,144,,200,"Number of samples in transaction : 4, number of failing samples : 0",users 1-1,,true,,14204,1909,1,1,null,141,3,0
+1592657913254,152,/neo4j/company/96d59cc6-8853-4ad7-81f6-619de08ec67e-81,200,,users 1-1,text,true,,20568,439,1,1,https://dibots.com/neo4j/company/96d59cc6-8853-4ad7-81f6-619de08ec67e,151,0,0
+1592657913254,152,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,20568,439,1,1,null,151,1,0
+1592657913408,94,/search-86,200,,users 1-1,text,true,,1542,671,1,1,https://dibots.com/search,94,0,0
+1592657913503,47,/search-92,200,,users 1-1,text,true,,1531,676,1,1,https://dibots.com/search,47,0,0
+1592657913407,141,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,3073,1347,1,1,null,141,2,0
+1592657913551,2291,/neo4j/company/connectivity-93,200,,users 1-1,text,true,,41080,507,1,1,https://dibots.com/neo4j/company/connectivity?id=e82086e0-acac-4b58-a090-2fb612bce93a%2C79efaced-fa64-4412-9501-0301b21b1fda&type=Company,2288,0,0
+1592657913551,2291,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,41080,507,1,1,null,2288,1,0
+1592657915843,153,/neo4j/company/96d59cc6-8853-4ad7-81f6-619de08ec67e-95,200,,users 1-1,text,true,,20568,439,1,1,https://dibots.com/neo4j/company/96d59cc6-8853-4ad7-81f6-619de08ec67e,152,0,0
+1592657915843,153,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,20568,439,1,1,null,152,0,0
+1592657915997,6,/ping-97,200,,users 1-1,text,true,,493,486,1,1,https://dibots.com/ping,6,0,0
+1592657916004,46,/search-98,200,,users 1-1,text,true,,555,616,1,1,https://dibots.com/search,46,0,0
+1592657916051,8,/_roles-99,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,8,0,0
+1592657916060,7,/username-100,200,,users 1-1,text,true,,509,490,1,1,https://dibots.com/username,6,0,0
+1592657916067,7,/_roles-101,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,6,0,0
+1592657916074,1,/searchSanction/_-102,200,OK,users 1-1,text,true,,3759,457,1,1,https://dibots.com/searchSanction/_,1,0,0
+1592657916076,1,/searchSanction/undefined-106,200,OK,users 1-1,text,true,,3759,387,1,1,https://dibots.com/searchSanction/undefined,1,0,0
+1592657916077,6,/ping-105,200,,users 1-1,text,true,,493,498,1,1,https://dibots.com/ping,6,0,0
+1592657916083,6,/ping-104,200,,users 1-1,text,true,,493,498,1,1,https://dibots.com/ping,6,0,0
+1592657916089,6,/role_check?role=SANC-107,200,,users 1-1,text,true,,493,514,1,1,https://dibots.com/role_check?role=SANC,6,0,0
+1592657916096,5,/_roles-108,200,,users 1-1,text,true,,593,500,1,1,https://dibots.com/_roles,5,0,0
+1592657916102,6,/username-109,200,,users 1-1,text,true,,509,502,1,1,https://dibots.com/username,6,0,0
+1592657916109,5,/_roles-110,200,,users 1-1,text,true,,593,500,1,1,https://dibots.com/_roles,5,0,0
+1592657916115,22,/auth/search-113,200,,users 1-1,text,true,,1707,640,1,1,https://dibots.com/auth/search,22,0,0
+1592657916138,13,/auth/search-114,200,,users 1-1,text,true,,545,603,1,1,https://dibots.com/auth/search,13,0,0
+1592657916152,7,/_roles-112,200,,users 1-1,text,true,,593,500,1,1,https://dibots.com/_roles,7,0,0
+1592657916159,37,/auth/search-111,200,,users 1-1,text,true,,3312,645,1,1,https://dibots.com/auth/search,37,0,0
+1592657916197,15,/auth/search-115,200,,users 1-1,text,true,,545,603,1,1,https://dibots.com/auth/search,15,0,0
+1592657915996,204,,200,"Number of samples in transaction : 18, number of failing samples : 0",users 1-1,,true,,20137,9415,1,1,null,202,12,0
+1592657916213,21,/auth/search-116,200,,users 1-1,text,true,,1316,703,1,1,https://dibots.com/auth/search,21,0,0
+1592657916235,49,/auth/search-117,200,,users 1-1,text,true,,2144,707,1,1,https://dibots.com/auth/search,49,0,0
+1592657916285,10,/pep/22202664-118,200,,users 1-1,text,true,,1325,394,1,1,https://dibots.com/pep/22202664,10,0,0
+1592657916212,80,,200,"Number of samples in transaction : 3, number of failing samples : 0",users 1-1,,true,,4785,1804,1,1,null,80,3,0
+1592657916296,21,/auth/search-119,200,,users 1-1,text,true,,1885,703,1,1,https://dibots.com/auth/search,21,0,0
+1592657916317,31,/auth/search-120,200,,users 1-1,text,true,,1565,705,1,1,https://dibots.com/auth/search,30,0,0
+1592657916348,28,/auth/search-121,200,,users 1-1,text,true,,1564,706,1,1,https://dibots.com/auth/search,28,0,0
+1592657916376,18,/auth/search-123,200,,users 1-1,text,true,,1707,647,1,1,https://dibots.com/auth/search,18,0,0
+1592657916395,14,/auth/search-122,200,,users 1-1,text,true,,2014,617,1,1,https://dibots.com/auth/search,13,0,0
+1592657916409,35,/auth/search-124,200,,users 1-1,text,true,,3311,652,1,1,https://dibots.com/auth/search,34,0,0
+1592657916445,16,/auth/search-125,200,,users 1-1,text,true,,2014,617,1,1,https://dibots.com/auth/search,15,0,0
+1592657916461,13,/pep/22204375-126,200,,users 1-1,text,true,,1502,394,1,1,https://dibots.com/pep/22204375,13,0,0
+1592657916295,176,,200,"Number of samples in transaction : 8, number of failing samples : 0",users 1-1,,true,,15562,5041,1,1,null,172,3,0
+1592657916475,20,/auth/search-127,200,,users 1-1,text,true,,1951,703,1,1,https://dibots.com/auth/search,19,0,0
+1592657916495,19,/auth/search-128,200,,users 1-1,text,true,,1953,704,1,1,https://dibots.com/auth/search,19,0,0
+1592657916515,27,/auth/search-129,200,,users 1-1,text,true,,1329,709,1,1,https://dibots.com/auth/search,27,0,0
+1592657916542,16,/pep/22204904-130,200,,users 1-1,text,true,,1443,394,1,1,https://dibots.com/pep/22204904,15,0,0
+1592657916474,82,,200,"Number of samples in transaction : 4, number of failing samples : 0",users 1-1,,true,,6676,2510,1,1,null,80,2,0
+1592657916559,24,/auth/search-131,200,,users 1-1,text,true,,3979,703,1,1,https://dibots.com/auth/search,23,0,0
+1592657916584,32,/auth/search-132,200,,users 1-1,text,true,,3984,704,1,1,https://dibots.com/auth/search,32,0,0
+1592657916617,12,/auth/search-133,200,,users 1-1,text,true,,545,613,1,1,https://dibots.com/auth/search,12,0,0
+1592657916630,18,/auth/search-134,200,,users 1-1,text,true,,1707,645,1,1,https://dibots.com/auth/search,18,0,0
+1592657916649,36,/auth/search-135,200,,users 1-1,text,true,,3311,650,1,1,https://dibots.com/auth/search,35,0,0
+1592657916686,13,/auth/search-136,200,,users 1-1,text,true,,545,613,1,1,https://dibots.com/auth/search,13,0,0
+1592657916701,1044,/submit/telemetry/5cb552e0-a3b6-4f5e-98bd-bb0dc6885552/health/Firefox/77.0.1/release/20200602222727?v=4-137,200,OK,users 1-1,text,true,,241,1089,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/5cb552e0-a3b6-4f5e-98bd-bb0dc6885552/health/Firefox/77.0.1/release/20200602222727?v=4,1044,0,770
+1592657917746,855,/submit/telemetry/093c7a11-34cb-4c21-90ae-01b384db4761/main/Firefox/77.0.1/release/20200602222727?v=4-138,200,OK,users 1-1,text,true,,241,26430,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/093c7a11-34cb-4c21-90ae-01b384db4761/main/Firefox/77.0.1/release/20200602222727?v=4,855,0,0
+1592657918602,30,/auth/search-139,200,,users 1-1,text,true,,8820,618,1,1,https://dibots.com/auth/search,29,0,0
+1592657918633,17,/sanction/21795217-140,200,,users 1-1,text,true,,1331,406,1,1,https://dibots.com/sanction/21795217,16,0,0
+1592657916558,2081,,200,"Number of samples in transaction : 10, number of failing samples : 0",users 1-1,,true,,24704,32471,1,1,null,2077,11,770
+1592657918650,7,/ping-142,200,,users 1-1,text,true,,492,486,1,1,https://dibots.com/ping,7,0,0
+1592657918658,52,/search-143,200,,users 1-1,text,true,,554,616,1,1,https://dibots.com/search,52,0,0
+1592657918711,6,/_roles-144,200,,users 1-1,text,true,,592,488,1,1,https://dibots.com/_roles,6,0,0
+1592657918718,6,/username-145,200,,users 1-1,text,true,,508,490,1,1,https://dibots.com/username,5,0,0
+1592657918724,6,/_roles-146,200,,users 1-1,text,true,,592,488,1,1,https://dibots.com/_roles,6,0,0
+1592657918731,3,/searchTransferPricing-147,200,OK,users 1-1,text,true,,3758,462,1,1,https://dibots.com/searchTransferPricing,3,0,0
+1592657918734,7,/ping-149,200,,users 1-1,text,true,,492,503,1,1,https://dibots.com/ping,7,0,0
+1592657918742,6,/ping-150,200,,users 1-1,text,true,,492,503,1,1,https://dibots.com/ping,6,0,0
+1592657918749,9,/username-152,200,,users 1-1,text,true,,508,507,1,1,https://dibots.com/username,9,0,0
+1592657918759,8,/_roles-151,200,,users 1-1,text,true,,557,505,1,1,https://dibots.com/_roles,7,0,0
+1592657918768,18,/role_check?role=TP-153,200,,users 1-1,text,true,,494,517,1,1,https://dibots.com/role_check?role=TP,18,0,12
+1592657918787,5,/_roles-154,200,,users 1-1,text,true,,593,505,1,1,https://dibots.com/_roles,5,0,0
+1592657918793,9,/classif-codes-155,200,,users 1-1,text,true,,827,400,1,1,https://dibots.com/classif-codes,8,0,0
+1592657918802,11,/countries-156,200,,users 1-1,text,true,,3118,396,1,1,https://dibots.com/countries,11,0,0
+1592657918814,859,/releases/v5.0.10/webfonts/fa-regular-400.woff2-157,200,OK,users 1-1,text,true,,12711,416,1,1,https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.woff2,859,0,695
+1592657918650,1012,,200,"Number of samples in transaction : 15, number of failing samples : 0",users 1-1,,true,,26288,7282,1,1,null,1009,12,707
+1592657919674,19,/auth/adv_search-158,200,,users 1-1,text,true,,2243,629,1,1,https://dibots.com/auth/adv_search,19,0,0
+1592657919674,19,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,2243,629,1,1,null,19,0,0
+1592657919694,2,/company/3480-159,200,OK,users 1-1,text,true,,3759,470,1,1,https://dibots.com/company/3480,2,0,0
+1592657919696,1,/company/undefined-161,200,OK,users 1-1,text,true,,3759,376,1,1,https://dibots.com/company/undefined,1,0,0
+1592657919697,8,/ping-162,200,,users 1-1,text,true,,493,494,1,1,https://dibots.com/ping,7,0,0
+1592657919705,7,/_roles-165,200,,users 1-1,text,true,,593,496,1,1,https://dibots.com/_roles,6,0,0
+1592657919712,7,/username-166,200,,users 1-1,text,true,,509,498,1,1,https://dibots.com/username,7,0,0
+1592657919719,7,/_roles-167,200,,users 1-1,text,true,,593,496,1,1,https://dibots.com/_roles,7,0,0
+1592657919727,24,/analyst/freeQuickview/3480-163,200,,users 1-1,text,true,,1141,426,1,1,https://dibots.com/analyst/freeQuickview/3480?period=A&actual=false,24,0,0
+1592657919752,21,/analyst/quickview/3480-168,200,,users 1-1,text,true,,1942,422,1,1,https://dibots.com/analyst/quickview/3480?period=A&actual=false,21,0,0
+1592657919773,55,/profile/3480-164,200,,users 1-1,text,true,,7311,390,1,1,https://dibots.com/profile/3480,53,0,0
+1592657919830,12,/companydata/esg/3480-169,200,,users 1-1,text,true,,712,398,1,1,https://dibots.com/companydata/esg/3480,12,0,0
+1592657919843,12,/companydata/esg/staff/3480-172,200,,users 1-1,text,true,,658,404,1,1,https://dibots.com/companydata/esg/staff/3480,11,0,0
+1592657919855,35,/companydata/esg/director/3480-173,200,,users 1-1,text,true,,611,407,1,1,https://dibots.com/companydata/esg/director/3480,34,0,0
+1592657919891,18,/auth/search-170,200,,users 1-1,text,true,,1571,611,1,1,https://dibots.com/auth/search,18,0,0
+1592657919910,10,/companydata/broker/3480-175,200,,users 1-1,text,true,,585,401,1,1,https://dibots.com/companydata/broker/3480,10,0,0
+1592657919923,181,/search?postalcode=59200&country=%27Malaysia%27&format=json-171,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,users 1-1,text,false,,2725,0,1,1,https://nominatim.openstreetmap.org/search?postalcode=59200&country=%27Malaysia%27&format=json,0,0,181
+1592657919693,400,,,"Number of samples in transaction : 15, number of failing samples : 1",users 1-1,,false,,26962,6289,1,1,null,213,12,181
+1592657920107,7,/ping-187,200,,users 1-1,text,true,,493,486,1,1,https://dibots.com/ping,7,0,0
+1592657920115,48,/search-188,200,,users 1-1,text,true,,555,616,1,1,https://dibots.com/search,48,0,0
+1592657920164,7,/_roles-189,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,7,0,0
+1592657920172,7,/username-190,200,,users 1-1,text,true,,509,490,1,1,https://dibots.com/username,7,0,0
+1592657920180,6,/_roles-191,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,6,0,0
+1592657920187,3,/searchCompanyShariah-192,200,OK,users 1-1,text,true,,3759,461,1,1,https://dibots.com/searchCompanyShariah,2,0,0
+1592657920190,6,/ping-194,200,,users 1-1,text,true,,493,502,1,1,https://dibots.com/ping,6,0,0
+1592657920197,7,/ping-195,200,,users 1-1,text,true,,493,502,1,1,https://dibots.com/ping,6,0,0
+1592657920204,7,/username-196,200,,users 1-1,text,true,,509,506,1,1,https://dibots.com/username,6,0,0
+1592657920211,7,/_roles-197,200,,users 1-1,text,true,,593,504,1,1,https://dibots.com/_roles,7,0,0
+1592657920219,6,/role_check?role=G_SHARIAH-198,200,,users 1-1,text,true,,493,523,1,1,https://dibots.com/role_check?role=G_SHARIAH,6,0,0
+1592657920226,6,/_roles-199,200,,users 1-1,text,true,,593,504,1,1,https://dibots.com/_roles,6,0,0
+1592657920233,6,/_roles-200,200,,users 1-1,text,true,,593,504,1,1,https://dibots.com/_roles,6,0,0
+1592657920240,10,/classif-codes-201,200,,users 1-1,text,true,,827,399,1,1,https://dibots.com/classif-codes,10,0,0
+1592657920251,9,/countries-202,200,,users 1-1,text,true,,3118,395,1,1,https://dibots.com/countries,9,0,0
+1592657920106,142,,200,"Number of samples in transaction : 15, number of failing samples : 0",users 1-1,,true,,14214,7368,1,1,null,139,13,0
+1592657920261,19,/auth/adv_search-203,200,,users 1-1,text,true,,3599,618,1,1,https://dibots.com/auth/adv_search,18,0,0
+1592657920261,19,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,3599,618,1,1,null,18,0,0
+1592657920281,2,/companyShariah/3014919-204,200,OK,users 1-1,text,true,,3759,479,1,1,https://dibots.com/companyShariah/3014919,2,0,0
+1592657920284,2,/companyShariah/undefined-208,200,OK,users 1-1,text,true,,3759,393,1,1,https://dibots.com/companyShariah/undefined,2,0,0
+1592657920287,11,/ping-206,200,,users 1-1,text,true,,493,504,1,1,https://dibots.com/ping,10,0,0
+1592657920298,6,/ping-207,200,,users 1-1,text,true,,493,504,1,1,https://dibots.com/ping,6,0,0
+1592657920305,6,/_roles-209,200,,users 1-1,text,true,,593,506,1,1,https://dibots.com/_roles,6,0,0
+1592657920312,6,/username-210,200,,users 1-1,text,true,,509,508,1,1,https://dibots.com/username,5,0,0
+1592657920319,7,/role_check?role=G_SHARIAH-211,200,,users 1-1,text,true,,493,525,1,1,https://dibots.com/role_check?role=G_SHARIAH,7,0,0
+1592657920327,20,/profile/3014919-212,200,,users 1-1,text,true,,2019,403,1,1,https://dibots.com/profile/3014919,20,0,0
+1592657920348,17,/analyst/getFiscalYearEndYear/ff888500-b704-4d9e-a86b-b9a85d13509e-213,200,,users 1-1,text,true,,590,453,1,1,https://dibots.com/analyst/getFiscalYearEndYear/ff888500-b704-4d9e-a86b-b9a85d13509e,16,0,0
+1592657920365,11,/analyst/segment/ff888500-b704-4d9e-a86b-b9a85d13509e-215,200,,users 1-1,text,true,,930,462,1,1,https://dibots.com/analyst/segment/ff888500-b704-4d9e-a86b-b9a85d13509e?period=A&actual=false,10,0,0
+1592657920376,7,/companydata/broker/3014919-217,200,,users 1-1,text,true,,585,414,1,1,https://dibots.com/companydata/broker/3014919,7,0,0
+1592657920384,24,/shariah/getLatestShariahRatioInfo/ff888500-b704-4d9e-a86b-b9a85d13509e-214,200,,users 1-1,text,true,,800,458,1,1,https://dibots.com/shariah/getLatestShariahRatioInfo/ff888500-b704-4d9e-a86b-b9a85d13509e,24,0,0
+1592657920409,21,/shariah/getLatestShariahRatioInfo/ff888500-b704-4d9e-a86b-b9a85d13509e-216,200,,users 1-1,text,true,,800,458,1,1,https://dibots.com/shariah/getLatestShariahRatioInfo/ff888500-b704-4d9e-a86b-b9a85d13509e,21,0,0
+1592657920280,140,,200,"Number of samples in transaction : 13, number of failing samples : 0",users 1-1,,true,,15823,6067,1,1,null,136,11,0
+1592657920431,2,/signout-218,200,OK,users 1-1,text,true,,3759,464,1,1,https://dibots.com/signout,2,0,0
+1592657920434,9,/logout-220,200,,users 1-1,,true,,541,488,1,1,https://dibots.com/logout,9,0,0
+1592657920444,3,/ping-222,200,,users 1-1,text,true,,494,420,1,1,https://dibots.com/ping,3,0,0
+1592657920448,43,/search-221,200,,users 1-1,text,true,,555,550,1,1,https://dibots.com/search,43,0,0
+1592657920431,57,,200,"Number of samples in transaction : 4, number of failing samples : 0",users 1-1,,true,,5349,1922,1,1,null,57,3,0
