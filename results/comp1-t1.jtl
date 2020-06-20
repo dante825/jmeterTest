@@ -1,0 +1,146 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592558703498,152,/-142,200,OK,users 1-1,text,true,,4220,674,1,1,https://dibots.com/,23,0,15
+1592558703498,23,/-142-0,302,Found,users 1-1,text,true,,460,337,1,1,http://dibots.com/,23,0,15
+1592558703521,129,/-142-1,200,OK,users 1-1,text,true,,3760,337,1,1,https://dibots.com/,129,0,125
+1592558703652,7,/ping-145,200,,users 1-1,text,true,,494,420,1,1,https://dibots.com/ping,6,0,0
+1592558703659,239,/search-146,200,,users 1-1,text,true,,555,550,1,1,https://dibots.com/search,239,0,0
+1592558703898,3,/ping-148,200,,users 1-1,text,true,,494,425,1,1,https://dibots.com/ping,3,0,0
+1592558703902,6006,/-144,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: push.services.mozilla.com:443 failed to respond,users 1-1,text,false,,2072,0,1,1,https://push.services.mozilla.com/,0,0,807
+1592558703452,6407,,,"Number of samples in transaction : 5, number of failing samples : 1",users 1-1,,false,,7835,2069,1,1,null,271,50,822
+1592558709910,339,/login-149,200,,users 1-1,,true,,458,669,1,1,https://dibots.com/login,339,0,21
+1592558710254,5,/ping-150,200,,users 1-1,text,true,,493,486,1,1,https://dibots.com/ping,5,0,0
+1592558710259,52,/search-151,200,,users 1-1,text,true,,555,616,1,1,https://dibots.com/search,51,0,0
+1592558710312,8,/username-153,200,,users 1-1,text,true,,509,490,1,1,https://dibots.com/username,7,0,0
+1592558710321,9,/_roles-152,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,8,0,0
+1592558710331,8,/_roles-154,200,,users 1-1,text,true,,593,488,1,1,https://dibots.com/_roles,8,0,0
+1592558709910,421,,200,"Number of samples in transaction : 6, number of failing samples : 0",users 1-1,,true,,3201,3237,1,1,null,418,9,21
+1592558710341,50,/search-155,200,,users 1-1,text,true,,1595,658,1,1,https://dibots.com/search,48,0,0
+1592558710392,84,/search-156,200,,users 1-1,text,true,,941,660,1,1,https://dibots.com/search,84,0,0
+1592558710478,98,/search-157,200,,users 1-1,text,true,,2064,662,1,1,https://dibots.com/search,98,0,0
+1592558710577,25,/analyst/quickview/2598562-163,200,,users 1-1,text,true,,1983,428,1,1,https://dibots.com/analyst/quickview/2598562?period=A&actual=false,24,0,0
+1592558710604,37,/profile/2598562-164,200,,users 1-1,text,true,,4902,396,1,1,https://dibots.com/profile/2598562,36,0,0
+1592558710641,11,/companydata/esg/2598562-167,200,,users 1-1,text,true,,740,404,1,1,https://dibots.com/companydata/esg/2598562,10,0,0
+1592558710652,8,/companydata/esg/staff/2598562-168,200,,users 1-1,text,true,,658,410,1,1,https://dibots.com/companydata/esg/staff/2598562,8,0,0
+1592558710661,19,/companydata/esg/director/2598562-170,200,,users 1-1,text,true,,617,413,1,1,https://dibots.com/companydata/esg/director/2598562,19,0,0
+1592558710682,185,/auth/search-169,200,,users 1-1,text,true,,546,620,1,1,https://dibots.com/auth/search,185,0,0
+1592558710870,1323,/submit/telemetry/1762a9c4-546f-4514-a63f-d3cc087eb96e/health/Firefox/77.0.1/release/20200602222727?v=4-159,200,OK,users 1-1,text,true,,241,1091,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/1762a9c4-546f-4514-a63f-d3cc087eb96e/health/Firefox/77.0.1/release/20200602222727?v=4,1323,0,1063
+1592558712194,277,/submit/telemetry/0120f3b2-bcc1-49bc-a3d0-d99ace094711/health/Firefox/77.0.1/release/20200602222727?v=4-160,200,OK,users 1-1,text,true,,241,1093,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/0120f3b2-bcc1-49bc-a3d0-d99ace094711/health/Firefox/77.0.1/release/20200602222727?v=4,277,0,0
+1592558712472,179,/webcrawler/get/carouselData-166,200,,users 1-1,text,true,,47509,419,1,1,https://dibots.com/webcrawler/get/carouselData?id=2598562,174,0,0
+1592558712651,297,/submit/telemetry/c7115e22-b905-4ff0-b82e-94f67f37d93f/health/Firefox/77.0.1/release/20200602222727?v=4-158,200,OK,users 1-1,text,true,,241,1087,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/c7115e22-b905-4ff0-b82e-94f67f37d93f/health/Firefox/77.0.1/release/20200602222727?v=4,297,0,0
+1592558712948,706,/submit/telemetry/fc7c98f6-5c60-47fb-b00c-b6a49afb8d74/modules/Firefox/77.0.1/release/20200602222727?v=4-161,200,OK,users 1-1,text,true,,241,14144,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/fc7c98f6-5c60-47fb-b00c-b6a49afb8d74/modules/Firefox/77.0.1/release/20200602222727?v=4,706,0,0
+1592558713655,240,/companydata/corpnews/latest/2598562-171,200,,users 1-1,text,true,,3657,416,1,1,https://dibots.com/companydata/corpnews/latest/2598562,239,0,0
+1592558713895,854,/submit/telemetry/e3c96662-1fc6-4bb2-97d0-84ea84735fce/main/Firefox/77.0.1/release/20200602222727?v=4-162,200,OK,users 1-1,text,true,,241,28927,1,1,https://incoming.telemetry.mozilla.org/submit/telemetry/e3c96662-1fc6-4bb2-97d0-84ea84735fce/main/Firefox/77.0.1/release/20200602222727?v=4,854,0,0
+1592558714751,7,/companydata/broker/2598562-172,200,,users 1-1,text,true,,585,407,1,1,https://dibots.com/companydata/broker/2598562,7,0,0
+1592558714759,348,/search?postalcode=47301&country=%27Malaysia%27&format=json-165,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,users 1-1,text,false,,2725,0,1,1,https://nominatim.openstreetmap.org/search?postalcode=47301&country=%27Malaysia%27&format=json,0,0,348
+1592558710340,4748,,,"Number of samples in transaction : 18, number of failing samples : 1",users 1-1,,false,,69727,52235,1,1,null,4389,19,1411
+1592558715107,14,/marketplace/bursa/latest/prices/2598562-175,200,,users 1-1,text,true,,1034,420,1,1,https://dibots.com/marketplace/bursa/latest/prices/2598562,14,0,0
+1592558715122,4,/companydata/entitlement-178,200,,users 1-1,text,true,,585,537,1,1,https://dibots.com/companydata/entitlement,4,0,0
+1592558715127,9,/companydata/dailytransaction-180,200,,users 1-1,text,true,,593,556,1,1,https://dibots.com/companydata/dailytransaction,9,0,0
+1592558715137,5,/companydata/last/dailytransaction-183,200,,users 1-1,text,true,,623,544,1,1,https://dibots.com/companydata/last/dailytransaction,5,0,0
+1592558715142,50,/companydata/dailytransaction-177,200,,users 1-1,text,true,,594,556,1,1,https://dibots.com/companydata/dailytransaction,50,0,0
+1592558715193,78,/docRepository/research/average-176,200,,users 1-1,text,true,,667,430,1,1,https://dibots.com/docRepository/research/average?externalId=2598562,77,0,0
+1592558715272,40,/companydata/dailytransaction-179,200,,users 1-1,text,true,,594,556,1,1,https://dibots.com/companydata/dailytransaction,39,0,0
+1592558715313,59,/marketplace/52week/high/-181,200,,users 1-1,text,true,,562,468,1,1,https://dibots.com/marketplace/52week/high/?uuid=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&startDate=2020-06-19,59,0,0
+1592558715373,58,/marketplace/52week/low/-184,200,,users 1-1,text,true,,562,467,1,1,https://dibots.com/marketplace/52week/low/?uuid=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&startDate=2020-06-19,57,0,0
+1592558715432,498,/docRepository/research/list-182,200,,users 1-1,text,true,,1064,490,1,1,https://dibots.com/docRepository/research/list?externalId=2598562&pageNumber=0&size=10&fieldname=forecast_release_date&order=des,498,0,0
+1592558715107,815,,200,"Number of samples in transaction : 10, number of failing samples : 0",users 1-1,,true,,6878,5024,1,1,null,812,9,0
+1592558715932,71,/auth/adv_search-186,200,,users 1-1,text,true,,72156,1186,1,1,https://dibots.com/auth/adv_search,41,0,0
+1592558716004,10,/companydata/demography/value-185,200,,users 1-1,text,true,,1312,542,1,1,https://dibots.com/companydata/demography/value,10,0,0
+1592558716015,24,/marketplace/closing/price/-187,200,,users 1-1,text,true,,810,489,1,1,https://dibots.com/marketplace/closing/price/?uuid=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&startDate=2020-06-19&endDate=2020-03-19,24,0,0
+1592558716039,22,/marketplace/volume/-189,200,,users 1-1,text,true,,972,482,1,1,https://dibots.com/marketplace/volume/?uuid=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&startDate=2020-06-19&endDate=2020-03-19,22,0,0
+1592558716062,7,/companydata/shortselling-190,200,,users 1-1,text,true,,585,538,1,1,https://dibots.com/companydata/shortselling,7,0,0
+1592558716070,19,/companydata/demography/volume-188,200,,users 1-1,text,true,,750,543,1,1,https://dibots.com/companydata/demography/volume,18,0,0
+1592558716090,12,/companydata/demography/valueacc-191,200,,users 1-1,text,true,,2118,545,1,1,https://dibots.com/companydata/demography/valueacc,11,0,0
+1592558716103,8,/companydata/dailysectorindex-192,200,,users 1-1,text,true,,1078,529,1,1,https://dibots.com/companydata/dailysectorindex,7,0,0
+1592558715931,173,,200,"Number of samples in transaction : 8, number of failing samples : 0",users 1-1,,true,,79781,4854,1,1,null,140,7,0
+1592558716112,9,/marketplace/bursa/latest/prices/2598562-193,200,,users 1-1,text,true,,1034,420,1,1,https://dibots.com/marketplace/bursa/latest/prices/2598562,9,0,0
+1592558716122,73,/docRepository/research/average-194,200,,users 1-1,text,true,,667,430,1,1,https://dibots.com/docRepository/research/average?externalId=2598562,73,0,0
+1592558716111,82,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,1701,850,1,1,null,82,2,0
+1592558716195,197,/companydata/demography/stats-195,200,,users 1-1,text,true,,964,542,1,1,https://dibots.com/companydata/demography/stats,197,0,0
+1592558716393,15,/companydata/demography/nationality-196,200,,users 1-1,text,true,,845,548,1,1,https://dibots.com/companydata/demography/nationality,15,0,0
+1592558716409,39,/companydata/demography/participantname-199,200,,users 1-1,text,true,,1629,573,1,1,https://dibots.com/companydata/demography/participantname,39,0,0
+1592558716449,36,/companydata/demography/participantname-198,200,,users 1-1,text,true,,2141,569,1,1,https://dibots.com/companydata/demography/participantname,35,0,0
+1592558716486,69,/companydata/demography/participantbystock-200,200,,users 1-1,text,true,,1019,574,1,1,https://dibots.com/companydata/demography/participantbystock,69,0,0
+1592558716556,19,/companydata/demography/ageband-197,200,,users 1-1,text,true,,721,544,1,1,https://dibots.com/companydata/demography/ageband,19,0,0
+1592558716576,43,/companydata/demography/localparticipantname-201,200,,users 1-1,text,true,,1658,581,1,1,https://dibots.com/companydata/demography/localparticipantname,42,0,0
+1592558716620,41,/companydata/demography/localparticipantname-202,200,,users 1-1,text,true,,2047,588,1,1,https://dibots.com/companydata/demography/localparticipantname,40,0,0
+1592558716195,459,,200,"Number of samples in transaction : 8, number of failing samples : 0",users 1-1,,true,,11024,4519,1,1,null,456,7,0
+1592558716662,10,/marketplace/bursa/latest/prices/2598562-203,200,,users 1-1,text,true,,1034,420,1,1,https://dibots.com/marketplace/bursa/latest/prices/2598562,9,0,0
+1592558716673,73,/docRepository/research/average-204,200,,users 1-1,text,true,,667,430,1,1,https://dibots.com/docRepository/research/average?externalId=2598562,73,0,0
+1592558716661,83,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,1701,850,1,1,null,82,2,0
+1592558716747,66,/companydata/demography/participantbystock-205,200,,users 1-1,text,true,,1015,575,1,1,https://dibots.com/companydata/demography/participantbystock,66,0,0
+1592558716746,66,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,1015,575,1,1,null,66,1,0
+1592558716814,8,/analyst/getFiscalYearEndYear/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-206,200,,users 1-1,text,true,,601,446,1,1,https://dibots.com/analyst/getFiscalYearEndYear/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf,8,0,0
+1592558716823,26,/fundamental/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-207,200,,users 1-1,text,true,,1296,438,1,1,https://dibots.com/fundamental/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A,25,0,0
+1592558716814,34,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,1897,884,1,1,null,33,1,0
+1592558716850,23,/analyst/income/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-208,200,,users 1-1,text,true,,2831,454,1,1,https://dibots.com/analyst/income/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,22,0,0
+1592558716849,23,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,2831,454,1,1,null,22,2,0
+1592558716875,17,/analyst/asset/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-209,200,,users 1-1,text,true,,1922,453,1,1,https://dibots.com/analyst/asset/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,16,0,0
+1592558716874,17,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,1922,453,1,1,null,16,2,0
+1592558716893,17,/analyst/liability/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-210,200,,users 1-1,text,true,,2247,457,1,1,https://dibots.com/analyst/liability/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,16,0,0
+1592558716893,17,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,2247,457,1,1,null,16,0,0
+1592558716911,19,/analyst/cashflow/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-211,200,,users 1-1,text,true,,2439,456,1,1,https://dibots.com/analyst/cashflow/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,19,0,0
+1592558716910,19,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,2439,456,1,1,null,19,2,0
+1592558716931,43,/analyst/ratio/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-212,200,,users 1-1,text,true,,9423,453,1,1,https://dibots.com/analyst/ratio/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,40,0,0
+1592558716931,43,,200,"Number of samples in transaction : 1, number of failing samples : 0",users 1-1,,true,,9423,453,1,1,null,40,0,0
+1592558716977,442,/v4/threatListUpdates:fetch-213,200,OK,users 1-1,text,true,,137477,758,1,1,https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?%24ct=application%2Fx-protobuf&key=AIzaSyAeBuGRUrxHr4_eHhrCwdkl0G-O4qR5UXs&%24httpMethod=POST&%24req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAIaGwoNCAUQBhgBIgMwMDEwARD54QgaAhgKodyItyICIAIoARonCAEQAhobCg0IARAGGAEiAzAwMTABEIHCBxoCGAriBRoJIgIgAigBGicIAxACGhsKDQgDEAYYASIDMDAxMAEQ78kHGgIYCuaucdUiAiACKAEaJwgHEAIaGwoNCAcQBhgBIgMwMDEwARDczAcaAhgKY424cCICIAIoARolCAkQAhoZCg0ICRAGGAEiAzAwMTABEBwaAhgKLxCLEiICIAIoAQ%3D%3D,413,0,49
+1592558717420,20,/analyst/segment/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-214,200,,users 1-1,text,true,,2296,455,1,1,https://dibots.com/analyst/segment/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,20,0,0
+1592558717440,13,/analyst/segment/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-215,200,,users 1-1,text,true,,2307,455,1,1,https://dibots.com/analyst/segment/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf?period=A&actual=false,13,0,0
+1592558716974,475,,200,"Number of samples in transaction : 3, number of failing samples : 0",users 1-1,,true,,142080,1668,1,1,null,446,5,49
+1592558717454,7,/analyst/getFiscalYearEndYear/-216,200,,users 1-1,text,true,,602,459,1,1,https://dibots.com/analyst/getFiscalYearEndYear/?companiesID=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf,7,0,0
+1592558717461,18,/analyst/ratio-217,200,,users 1-1,text,true,,3920,466,1,1,https://dibots.com/analyst/ratio?companiesID=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&fiscalYear=-1&period=A,18,0,0
+1592558717454,25,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,4522,925,1,1,null,25,0,0
+1592558717480,32,/analyst/ratio-218,200,,users 1-1,text,true,,6709,468,1,1,https://dibots.com/analyst/ratio?companiesID=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&fiscalYear=2018&period=A,31,0,0
+1592558717513,9,/countries-219,200,,users 1-1,text,true,,3118,390,1,1,https://dibots.com/countries,9,0,0
+1592558717523,866,/neo4j/company/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf-220,200,,users 1-1,text,true,,98815,431,1,1,https://dibots.com/neo4j/company/c36e5b87-4a61-4c7e-8dca-9151e6e08cbf,863,0,0
+1592558717479,907,,200,"Number of samples in transaction : 3, number of failing samples : 0",users 1-1,,true,,108642,1289,1,1,null,903,3,0
+1592558718390,4,/person/18552994-237,200,OK,users 1-1,text,true,,3759,467,1,1,https://dibots.com/person/18552994,4,0,0
+1592558718395,2,/person/undefined-239,200,OK,users 1-1,text,true,,3759,378,1,1,https://dibots.com/person/undefined,2,0,0
+1592558718398,6,/ping-240,200,,users 1-1,text,true,,493,497,1,1,https://dibots.com/ping,6,0,0
+1592558718405,5,/_roles-242,200,,users 1-1,text,true,,593,499,1,1,https://dibots.com/_roles,5,0,0
+1592558718411,4,/username-243,200,,users 1-1,text,true,,509,501,1,1,https://dibots.com/username,4,0,0
+1592558718416,5,/_roles-244,200,,users 1-1,text,true,,593,499,1,1,https://dibots.com/_roles,5,0,0
+1592558718422,5,/_roles-245,200,,users 1-1,text,true,,593,499,1,1,https://dibots.com/_roles,5,0,0
+1592558718428,11,/profile/18552994-241,200,,users 1-1,text,true,,1647,397,1,1,https://dibots.com/profile/18552994,10,0,0
+1592558718440,18,/auth/search-246,200,,users 1-1,text,true,,546,617,1,1,https://dibots.com/auth/search,17,0,0
+1592558718390,60,,200,"Number of samples in transaction : 9, number of failing samples : 0",users 1-1,,true,,12492,4354,1,1,null,58,8,0
+1592558718458,9,/companydata/shareholder/2598562-247,200,,users 1-1,text,true,,1461,412,1,1,https://dibots.com/companydata/shareholder/2598562,9,0,0
+1592558718468,9,/companydata/holdings/country/2598562-248,200,,users 1-1,text,true,,1165,417,1,1,https://dibots.com/companydata/holdings/country/2598562,9,0,0
+1592558718478,8,/companydata/holdings/investor/2598562-250,200,,users 1-1,text,true,,1209,418,1,1,https://dibots.com/companydata/holdings/investor/2598562,8,0,0
+1592558718487,53,/companydata/dealing/2598562-249,200,,users 1-1,text,true,,35800,408,1,1,https://dibots.com/companydata/dealing/2598562,49,0,0
+1592558718458,79,,200,"Number of samples in transaction : 4, number of failing samples : 0",users 1-1,,true,,39635,1655,1,1,null,75,4,0
+1592558718541,20,/companydata/subsidiary/2598562-251,200,,users 1-1,text,true,,4930,411,1,1,https://dibots.com/companydata/subsidiary/2598562,20,0,0
+1592558718561,16,/companydata/allmyshare/2598562-252,200,,users 1-1,text,true,,3152,411,1,1,https://dibots.com/companydata/allmyshare/2598562,16,0,0
+1592558718541,36,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,8082,822,1,1,null,36,1,0
+1592558718578,1,/company/103585-254,200,OK,users 1-1,text,true,,3759,466,1,1,https://dibots.com/company/103585,1,0,0
+1592558718579,1,/company/undefined-256,200,OK,users 1-1,text,true,,3759,378,1,1,https://dibots.com/company/undefined,1,0,0
+1592558718581,4,/ping-257,200,,users 1-1,text,true,,493,496,1,1,https://dibots.com/ping,4,0,0
+1592558718586,4,/_roles-260,200,,users 1-1,text,true,,593,498,1,1,https://dibots.com/_roles,4,0,0
+1592558718591,3,/_roles-261,200,,users 1-1,text,true,,593,498,1,1,https://dibots.com/_roles,3,0,0
+1592558718595,3,/username-263,200,,users 1-1,text,true,,509,500,1,1,https://dibots.com/username,3,0,0
+1592558718599,16,/analyst/quickview/103585-262,200,,users 1-1,text,true,,1767,426,1,1,https://dibots.com/analyst/quickview/103585?period=A&actual=false,16,0,0
+1592558718616,14,/analyst/freeQuickview/103585-258,200,,users 1-1,text,true,,1153,430,1,1,https://dibots.com/analyst/freeQuickview/103585?period=A&actual=false,14,0,0
+1592558718631,21,/profile/103585-259,200,,users 1-1,text,true,,2680,394,1,1,https://dibots.com/profile/103585,21,0,0
+1592558718653,10,/companydata/esg/103585-267,200,,users 1-1,text,true,,585,402,1,1,https://dibots.com/companydata/esg/103585,9,0,0
+1592558718663,11,/companydata/esg/director/103585-268,200,,users 1-1,text,true,,631,411,1,1,https://dibots.com/companydata/esg/director/103585,11,0,0
+1592558718676,16,/auth/search-269,200,,users 1-1,text,true,,546,635,1,1,https://dibots.com/auth/search,16,0,0
+1592558718692,9,/companydata/esg/staff/103585-266,200,,users 1-1,text,true,,613,408,1,1,https://dibots.com/companydata/esg/staff/103585,9,0,0
+1592558718703,161,/webcrawler/get/carouselData-265,200,,users 1-1,text,true,,482,417,1,1,https://dibots.com/webcrawler/get/carouselData?id=103585,161,0,0
+1592558718865,244,/companydata/corpnews/latest/103585-270,200,,users 1-1,text,true,,584,414,1,1,https://dibots.com/companydata/corpnews/latest/103585,244,0,0
+1592558719110,161,/search?postalcode=47500&country=%27Malaysia%27&format=json-264,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,users 1-1,text,false,,2725,0,1,1,https://nominatim.openstreetmap.org/search?postalcode=47500&country=%27Malaysia%27&format=json,0,0,161
+1592558719273,12,/companydata/broker/103585-273,200,,users 1-1,text,true,,584,405,1,1,https://dibots.com/companydata/broker/103585,11,0,0
+1592558718578,691,,,"Number of samples in transaction : 17, number of failing samples : 1",users 1-1,,false,,22056,7178,1,1,null,528,16,161
+1592558719286,17,/auth/adv_search-292,200,,users 1-1,text,true,,585,849,1,1,https://dibots.com/auth/adv_search,17,0,0
+1592558719304,16,/auth/adv_search-289,200,,users 1-1,text,true,,545,856,1,1,https://dibots.com/auth/adv_search,16,0,0
+1592558719321,13,/auth/adv_search-290,200,,users 1-1,text,true,,546,868,1,1,https://dibots.com/auth/adv_search,13,0,0
+1592558719335,169,/webcrawler/get/latestNewsDate-291,200,,users 1-1,text,true,,493,410,1,1,https://dibots.com/webcrawler/get/latestNewsDate,169,0,0
+1592558719505,8,/classif-codes-293,200,,users 1-1,text,true,,826,394,1,1,https://dibots.com/classif-codes,8,0,0
+1592558719514,38,/auth/adv_search-294,200,,users 1-1,text,true,,19528,1303,1,1,https://dibots.com/auth/adv_search,34,0,0
+1592558719285,261,,200,"Number of samples in transaction : 6, number of failing samples : 0",users 1-1,,true,,22523,4680,1,1,null,257,6,0
+1592558719553,10,/fundamental/table-296,200,,users 1-1,text,true,,929,508,1,1,https://dibots.com/fundamental/table?dbtEntityId=c36e5b87-4a61-4c7e-8dca-9151e6e08cbf&pageNumber=0&size=10&fieldname=fiscalPeriodEndDate&order=des,9,0,0
+1592558719564,527,/docRepository/research/list-295,200,,users 1-1,text,true,,1065,490,1,1,https://dibots.com/docRepository/research/list?externalId=2598562&pageNumber=0&size=10&fieldname=forecast_release_date&order=des,527,0,20
+1592558719552,537,,200,"Number of samples in transaction : 2, number of failing samples : 0",users 1-1,,true,,1994,998,1,1,null,536,2,20
+1592558720092,9,/logout-298,200,,users 1-1,,true,,541,488,1,1,https://dibots.com/logout,9,0,0
+1592558720102,2,/ping-300,200,,users 1-1,text,true,,494,420,1,1,https://dibots.com/ping,2,0,0
+1592558720105,44,/search-299,200,,users 1-1,text,true,,555,550,1,1,https://dibots.com/search,43,0,0
+1592558720092,55,,200,"Number of samples in transaction : 3, number of failing samples : 0",users 1-1,,true,,1590,1458,1,1,null,54,2,0
